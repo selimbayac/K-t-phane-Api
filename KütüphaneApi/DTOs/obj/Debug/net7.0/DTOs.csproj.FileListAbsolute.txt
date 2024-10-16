@@ -1,0 +1,11 @@
+E:\Masaüstü\KütüphaneApi\DTOs\bin\Debug\net7.0\DTOs.deps.json
+E:\Masaüstü\KütüphaneApi\DTOs\bin\Debug\net7.0\DTOs.dll
+E:\Masaüstü\KütüphaneApi\DTOs\bin\Debug\net7.0\DTOs.pdb
+E:\Masaüstü\KütüphaneApi\DTOs\obj\Debug\net7.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Masaüstü\KütüphaneApi\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfoInputs.cache
+E:\Masaüstü\KütüphaneApi\DTOs\obj\Debug\net7.0\DTOs.AssemblyInfo.cs
+E:\Masaüstü\KütüphaneApi\DTOs\obj\Debug\net7.0\DTOs.csproj.CoreCompileInputs.cache
+E:\Masaüstü\KütüphaneApi\DTOs\obj\Debug\net7.0\DTOs.dll
+E:\Masaüstü\KütüphaneApi\DTOs\obj\Debug\net7.0\refint\DTOs.dll
+E:\Masaüstü\KütüphaneApi\DTOs\obj\Debug\net7.0\DTOs.pdb
+E:\Masaüstü\KütüphaneApi\DTOs\obj\Debug\net7.0\ref\DTOs.dll
